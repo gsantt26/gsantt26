@@ -4,7 +4,7 @@
 <div>
 <a href="https://beacons.ai/gsantt26"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddCarrilho&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddCarrilho&layout=compact&langs_count=16&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme&layout=compact&langs_count=16&theme=dark"/>
 </div>  
  
 <div style="display: inline_block"><br>
