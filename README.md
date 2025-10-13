@@ -1,24 +1,27 @@
-# Olá! Este é meu perfil do github, seja bem-vindo.
-### Meu nome é Guilherme dos Santos Araujo sou Programador Jr. na KOVI
- 
-<div>
-<a href="https://beacons.ai/gsantt26"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddCarrilho&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme&layout=compact&langs_count=16&theme=dark"/>
-</div>  
- 
-<div style="display: inline_block"><br>
-<img align="center" alt="Guilherme" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Guilherme" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-<img align="center" alt="Guilherme" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Guilherme" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Guilherme" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Guilherme" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-</div>
- 
-##
- 
-<div>
-<a href="https://www.linkedin.com/in/eduardo-carrilho-b2830b271/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:guilherme605@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+# Olá, eu sou o Guilherme 👋
+
+Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. Aqui estão algumas das minhas principais habilidades:
+
+---
+
+## 🚀 Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📫 Contato
+
+- Email: guilherme@email.com
+- LinkedIn: [linkedin.com/in/guilherme](https://www.linkedin.com/in/guilherme)
+- GitHub: [github.com/guilherme](https://github.com/guilherme)
+
+---
+
+Obrigado por visitar meu perfil! 🚀
