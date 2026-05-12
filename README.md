@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. Aqui est
 
 - Email: guilherme@email.com
 - LinkedIn: [linkedin.com/in/guilherme-santos-araujo](https://www.linkedin.com/in/guilherme-dos-santos-ara%C3%BAjo/))
-- GitHub: [github.com/guilherme](https://github.com/guilherme)
+- GitHub: [github.com/guilherme](https://github.com/gsantt26)
 
 ---
 
